@@ -1,0 +1,65 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "John Wakahiu"
+  subtitle    = "Helping entrepreneurs and businesses tell their story"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Helping businesses tell their story"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "jonniwaka"
+  fbName = "jwakahiu1"
+  githubName = "johnwaka"
+
+  logo = ""
+  orgName = "johnwakahiu"
+  orgWebsite = "https://www.johnwakahiu.com"
+  orgDescription = "Helping entrepreneurs and businesses tell their story"
+
+  author = "Wakahiu"
+  authorAvatar = "profile-picture.jpg"
+  authorLocation = "Nairobi, Kenya"
+  authorWebsite = "https://johnwakahiu.com"
+  authorDescription = "Freelance Writer | Transcriber | Developer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Start Here"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "portfolio"
+  url = "/tags/portfolio/"
+  weight = 100
+
+[[menu.main]]
+  name = "blog"
+  url = "/categories/blog/"
+  weight = 99
+
+[[menu.main]]
+  name = "Medium"
+  url = "https://medium.com/@johnwakalemah"
+  weight = 95
+
+  [[menu.main]]
+  name = "As Seen On"
+  url = "https://thriveglobal.com/stories/how-to-boost-your-happiness-any-day/"
+  weight = 95
