@@ -2,7 +2,7 @@
 title: "One Day vs Day One"
 date: 2019-06-05T12:00:19+03:00
 draft: false
-image: "grow.jpg"
+image: "one.jpg"
 categories: ["blog"]
 ---
 
