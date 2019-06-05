@@ -2,7 +2,7 @@
 title: "You Matter..."
 date: 2019-06-05T1:00:19+03:00
 draft: false
-image: "step.jpg"
+image: "matter.jpg"
 categories: ["blog"]
 ---
 
