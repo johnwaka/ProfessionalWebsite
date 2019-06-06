@@ -6,7 +6,7 @@ image: "matter.jpg"
 categories: ["blog"]
 ---
 
-Life is the job description that each one of us was given. We all have a purpose. We all matter. God created us so that <!--more--> we can matter. 
+Life is the job description that each one of us was given. We all have a purpose. We all matter. God created us so that we can matter. <!--more-->
 
 That we can do something and not just anything. Whatever you choose to do, do it diligently. Take all the energy in. Do it all. And then you will make an impact. 
 
