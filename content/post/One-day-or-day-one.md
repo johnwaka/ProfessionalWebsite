@@ -6,7 +6,7 @@ image: "one.jpg"
 categories: ["blog"]
 ---
 
-The reason people die with ideas is that they wait for tomorrow. They wait for perfect conditions. They wait to know<!--more-->every detail. They won't settle on a task, or a commitment because one day they are going to do it. 
+The reason people die with ideas is that they wait for tomorrow. They wait for perfect conditions. They wait to know every detail.<!--more--> They won't settle on a task, or a commitment because one day they are going to do it. 
 
 It is what they say, "One day I will do it." Life happens and they die. Whether you know what your dreams are or not, today might be your lucky day to get started.
 
