@@ -6,7 +6,7 @@ image: "achieve.jpg"
 categories: ["blog"]
 ---
 
-What are the traits that successful people exhibit? I have found three things that you need to learn to achieve anything: <!--more-->
+What are the traits that successful people exhibit? I have found three qualities that you need to develop to achieve anything: <!--more-->
 
 ✔Intention.<br>
 ✔Attention. <br>
