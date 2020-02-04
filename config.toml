@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "portfolio"
-  url = "/tags/portfolio/"
+  url = "https://docs.google.com/document/d/e/2PACX-1vQnDPTaPmEmWoa6rswS3Ytp28jdH3NOxg8Nro_qvwGMAqfI8EtKgqTKfBZFoRmMYiMAATNH409guXgO/pub"
   weight = 100
 
 [[menu.main]]
