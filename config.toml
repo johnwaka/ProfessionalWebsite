@@ -7,10 +7,10 @@ paginate        = 6
 
 [params]
   title       = "John Wakahiu"
-  subtitle    = "Helping entrepreneurs and businesses tell their story"
+  subtitle    = "A Web Developer and Cloud Engineer Enthusiast"
 
   cover       = "img/blog-cover.jpg"
-  description = "Helping businesses tell their story"
+  description = "Helping businesses get online"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "profile-picture.jpg"
   authorLocation = "Nairobi, Kenya"
   authorWebsite = "https://johnwakahiu.com"
-  authorDescription = "Freelance Writer | Transcriber | Developer"
+  authorDescription = "Freelance Writer | Cloud Engineer | Web Developer"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "portfolio"
-  url = "https://docs.google.com/document/d/e/2PACX-1vQnDPTaPmEmWoa6rswS3Ytp28jdH3NOxg8Nro_qvwGMAqfI8EtKgqTKfBZFoRmMYiMAATNH409guXgO/pub"
+  url = "/categories/blog"
   weight = 100
 
 [[menu.main]]
