@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "A Web Developer and Cloud Engineer Enthusiast"
 
   cover       = "img/blog-cover.jpg"
-  description = "Helping businesses get online"
+  description = "Every business has a story. Let's get your story online"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -23,7 +23,7 @@ paginate        = 6
   logo = ""
   orgName = "johnwakahiu"
   orgWebsite = "https://www.johnwakahiu.com"
-  orgDescription = "Helping entrepreneurs and businesses tell their story"
+  orgDescription = "Every business has a story. Let's get your story online"
 
   author = "Wakahiu"
   authorAvatar = "profile-picture.jpg"
