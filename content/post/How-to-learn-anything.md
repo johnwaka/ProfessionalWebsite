@@ -1,12 +1,12 @@
 ---
-title: "Ask Enough Questions"
-date: 2018-12-17T12:00:19+03:00
+title: "How to Learn Anything: 5 Simple Tips"
+date: 2021-04-09T12:00:19+03:00
 draft: false
 image: "learnanything.jpg"
 categories: ["blog"]
 ---
 
-In our quest to achieve success, we end up wasting much time doing things that do not contribute to our success. 
+In our quest to achieve success, we end up wasting much time doing things that do not contribute to our success. <!--more-->
 
 When we want to learn something new, oftentimes, we rush to books and videos.
 

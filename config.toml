@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "profile-picture.jpg"
   authorLocation = "Nairobi, Kenya"
   authorWebsite = "https://johnwakahiu.com"
-  authorDescription = "Freelance Writer | Cloud Engineer | Web Developer"
+  authorDescription = "Cloud Engineer Enthusiast | Web Developer"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -41,7 +41,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Start Here"
-  url = "/"
+  url = "/categories/blog/"
   weight = 200
 
 [[menu.main]]
