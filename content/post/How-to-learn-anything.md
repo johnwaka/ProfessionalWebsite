@@ -1,5 +1,5 @@
 ---
-title: "How to Learn Anything: 5 Simple Tips"
+title: "How to Learn Anything: 5 Simple Tips That Works"
 date: 2021-04-09T12:00:19+03:00
 draft: false
 image: "learnanything.jpg"
@@ -16,7 +16,7 @@ We always do this not knowing we are on the wrong path. Watching these videos is
 
 Here are five simple tips for starting any project.
 
-1. Identify Your Goal
+#### 1. Identify Your Goal
 
 The only sure way that I have found to work is actually to go straight to the goal you need to achieve. 
 
@@ -26,7 +26,7 @@ Say you want to start a software company. Research on things that go into buildi
 
 Now that you have an idea of what you aim to achieve, let us now get those skills that make us stand. 
 
-2. Identify Your Skills
+#### 2. Identify Your Skills
 
 Do you have the skills to work as a software engineer? What languages do you need to create products for your clients?
 
@@ -42,7 +42,7 @@ People want proof that things have worked for other people. And what do they do?
 
 A little start to get you started might not hurt but it will if you end up moving from one HTML course to another. 
 
-3. Start by Doing 
+#### 3. Start by Doing 
 
 Watching YouTube tutorials might seem like your best way to get started. But it might lead you into an endless tutorial hell. 
 
@@ -56,7 +56,7 @@ Start and see how much you achieve on your first day. If you are stuck, search f
 
 This would save you time by checking the available solutions. 
 
-4. Blog Your Problems
+#### 4. Blog Your Problems
 
 If you encounter an issue that you cannot find online, find a way to get a solution on your own. 
 
@@ -64,7 +64,7 @@ This may take you time but it is the best way to remember things you learn.
 
 Document your solution on a blog since it helps you to remember and luckily help another person too. 
 
-5. Build a Project
+#### 5. Build a Project
 
 Use your skills to build a project. The first project may not look great but it will give you satisfaction. 
 
@@ -72,7 +72,7 @@ This way you will be confident of your skills and you will be more marketable. F
 
 Then you can create more projects and contribute to open-source projects. 
 
-Wrapping Up
+#### Wrapping Up
 
 Remember, people are looking for solutions. Offer solutions instead. 
 
