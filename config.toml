@@ -1,4 +1,4 @@
-baseurl         = "johnwakahiu.com"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -42,7 +42,7 @@ paginate        = 6
 [[menu.main]]
   name = "Start Here"
   url = "/categories/blog/"
-  weight = 200
+  weight = 90
 
 [[menu.main]]
   name = "portfolio"
