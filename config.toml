@@ -42,7 +42,7 @@ paginate        = 6
 [[menu.main]]
   name = "Start Here"
   url = "/categories/blog/"
-  weight = 90
+  weight = 200
 
 [[menu.main]]
   name = "portfolio"
