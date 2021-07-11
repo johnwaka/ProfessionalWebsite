@@ -17,7 +17,7 @@ paginate        = 6
   RSSLink = ""
 
   twitterName = "jonniwaka"
-  fbName = "jwakahiu1"
+  fbName = ""
   githubName = "johnwaka"
 
   logo = ""
@@ -56,7 +56,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Medium"
-  url = "https://medium.com/@johnwakalemah"
+  url = "https://medium.com/@jonniwaka"
   weight = 95
 
   [[menu.main]]
