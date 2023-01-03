@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "John Wakahiu"
-  subtitle    = "Quality Assuarance"
+  subtitle    = "Every business has a story. Let's get your story online"
 
   cover       = "img/blog-cover.jpg"
   description = "Every business has a story. Let's get your story online"
@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "profile-picture.jpg"
   authorLocation = "Nairobi, Kenya"
   authorWebsite = "https://johnwakahiu.com"
-  authorDescription = "Cloud Engineer Enthusiast | Web Developer"
+  authorDescription = "Cloud Engineer Enthusiast | Quality Assurance Engineer"
 
   pageNotFoundTitle = "404 - Page not found"
 
